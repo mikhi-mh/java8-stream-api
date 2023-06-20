@@ -28,5 +28,10 @@ public class Main {
         System.out.println(characterLongMap);
 
 
+
+        //String str123 = "abcdedewrthtdfsgfghstryfhkhgfsfhhfjkyrtyghsdhfdjgkyuyhadfgdfyjaz1234556";
+
+
+
     }
 }
